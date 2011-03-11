@@ -1,0 +1,2 @@
+CodeIgniter 1.6.1
+FreakAuth_light 1.1

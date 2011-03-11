@@ -1,0 +1,62 @@
+/* CSS Document */
+
+/*全局样式 */
+*{ margin:0; padding:0}
+body{ text-align:center;font-size:16px; font-family:"宋体"; }
+ul, li{ list-style-type:none}
+a{ color:#2C2C2C; text-decoration:underline; outline:none}
+a:link{ color:#2C2C2C;}
+a:hover{ color:#F66400; text-decoration:underline}
+a:visited{ color:#2C2C2C;}
+a.lj_ls{ color:#0064C8; text-decoration:underline; outline:none}
+a.lj_ls:link{ color:#0064C8;}
+a.lj_ls:hover{ color:#F66400; text-decoration:underline}
+a.lj_ls:visited{ color:#0064C8;}
+a.lj_cs{ color:#F66400; text-decoration:underline; font-weight:bold; outline:none}
+a.lj_cs:link{ color:#F66400; font-weight:bold;}
+a.lj_cs:hover{ color:#00469D; font-weight:bold; text-decoration:underline}
+a.lj_cs:visited{ color:#F66400; font-weight:bold;}
+
+/**/
+#allpages {width:100%; margin:0px auto;}
+.main {width:660px; margin:0 auto; border:2px solid #00469D; margin-top:10px;}
+.up_0 {height:80px; border-bottom:2px solid #00469D;}
+.up_1 {float:left;}
+.up_2 {float:right; margin:35px 35px 0px 0px; font-size:16px; font-weight:bold; color:#00469D;}
+.gg {height:150px; border-bottom:2px solid #00469D;}
+.w_1 {float:left; font-size:16px; font-weight:bold; color:#0064C8; height:50px; width:150px;}
+.w_2 {height:66px; line-height:28px; margin-top:10px; float:left; width:640px; text-align:left; padding-left:10px;}
+.lb img {float:left; padding:10px 0px 0px 10px;}
+.hd {border-bottom:2px solid #00469D;}
+.w_3 {float:left; font-size:16px; font-weight:bold; color:#0064C8; height:50px; width:210px;}
+.w_4 {float:left; line-height:50px; width:645px; text-align:left; padding-left:20px; background:url(../images/dz.jpg) no-repeat left; margin-left:10px;}
+.w_5 {float:left; line-height:28px; text-align:left; padding-left:15px; width:630px; padding-right:15px;}
+.w_6 {float:left; line-height:50px; width:645px; text-align:left; padding-left:20px; background:url(../images/dz.jpg) no-repeat left; margin-left:10px;}
+.p_1 {float:left; padding-bottom:10px;}
+.p_1 ul {padding-top:5px; margin-left:130px;}
+.p_1 ul li {float:left; width:100px;}
+.p_1 ul li img {border:1px solid #A6A6A6; padding:2px;}
+.xl {border-bottom:2px solid #00469D;} 
+.w_7 {float:left; font-size:16px; font-weight:bold; color:#0064C8; height:50px; width:180px;}
+.w_8 {float:left; line-height:50px; width:645px; text-align:left; padding-left:20px; background:url(../images/dz.jpg) no-repeat left; margin-left:10px;}
+.w_9 {float:left; line-height:28px; text-align:left; padding-left:15px; width:630px; padding-right:15px;}
+.w_11 {float:left; line-height:50px; width:645px; text-align:left; padding-left:20px; background:url(../images/dz.jpg) no-repeat left; margin-left:10px;}
+.w_22 {float:left; line-height:28px; text-align:left; padding-left:15px; width:630px; padding-right:15px; padding-bottom:10px;}
+.jq {border-bottom:2px solid #00469D;}
+.w_33 {float:left; font-size:16px; font-weight:bold; color:#0064C8; height:50px; width:150px;}
+.jq_pp {width:640x; height:140px; margin-top:15px; padding-left:10px; padding-right:10px; float:left;}
+.jq_pp img {border:1px solid #A6A6A6; padding:2px;}
+.jq_pp ul li {float:left; width:160px; text-align:center;}
+.rt {border-bottom:2px solid #00469D;}
+.w_44 {float:left; font-size:16px; font-weight:bold; color:#0064C8; height:50px; width:150px;}
+.w_55 {float:left; line-height:50px; width:645px; text-align:left;  padding-left:20px; background:url(../images/dz.jpg) no-repeat left; margin-left:10px;}
+.w_66 {float:left; line-height:28px; text-align:left; padding-left:15px; width:630px; padding-right:15px; padding-bottom:10px;}
+.w_77 {float:left; line-height:50px; width:645px; text-align:left; padding-left:20px; background:url(../images/dz.jpg) no-repeat left; margin-left:10px;}
+.xx {border-bottom:2px solid #00469D;}
+.w_88 {float:left; line-height:28px; text-align:left; padding-left:15px; width:630px; padding-right:15px; padding-bottom:10px; padding-top:10px;}
+.w_99 {float:left; line-height:22px; text-align:left; padding-left:15px; width:630px; padding-right:15px; padding-bottom:10px; color:#0064C8; font-size:12px;}
+.w_00 {float:left; line-height:28px; text-align:left; padding-left:20px; background:url(../images/dz.jpg) no-repeat left; margin-left:10px; width:630px; padding-right:15px; margin-bottom:10px;}
+.jqxl {border-bottom:2px solid #00469D;}
+.w_xl {float:left; font-size:16px; font-weight:bold; color:#0064C8; height:50px; width:180px;}
+.dx {float:left; width:640px; padding:10px; height:28px; line-height:28px; padding-bottom:0px;}
+.dx_w {line-height:32px; text-align:left; padding-left:18px; float:left; width:640px;}
